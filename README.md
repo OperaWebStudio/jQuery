@@ -1,3 +1,3 @@
 # jQuery
 
-Useful jQueryt snippets
+Useful jQuery snippets
